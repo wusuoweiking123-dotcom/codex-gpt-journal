@@ -1,0 +1,10 @@
+{
+  "codex_home": "~/.codex",
+  "journal_dir": "journal",
+  "inbox_dir": "inbox",
+  "default_branch": "main",
+  "commit_message_prefix": "daily ai journal",
+  "privacy_mode": "summary",
+  "max_snippet_chars": 360,
+  "include_transcript": false
+}
