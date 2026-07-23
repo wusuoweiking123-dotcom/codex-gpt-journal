@@ -6,4 +6,6 @@ config.local.json
 
 # Keep this uncommented if you do not want local raw exports committed.
 exports/
-
+vendor/
+journal-agent.out.log
+journal-agent.err.log
